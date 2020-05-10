@@ -4,6 +4,7 @@
 
 1. [A Kafka Story](https://github.com/framiere/a-kafka-story) - Kafka Ecosystem step by step
 1. [kafka-docker-playground](https://github.com/vdesabou/kafka-docker-playground/blob/master/README.md) - Playgruond for Kafka/Confluent Docker experimentations
+1. [Kafka Cloud with Registry](https://www.baeldung.com/spring-cloud-stream-kafka-avro-confluent)
 
 #### Official Confluent Inc Examples
 1. [Official Confluent Examples](https://github.com/confluentinc/examples)
@@ -16,6 +17,7 @@
 
 #### CodeNotFound Examples
 1. [Kafka Specific Tutorials for Java/Spring Boot](https://codenotfound.com/spring-kafka-tutorials)
+1. [Kafka with Spring Boot Example](https://codenotfound.com/spring-kafka-consumer-producer-example.html) - Very simple and clear example with embedded kafka test.
 
 ### Documentation/Resources
 1. [Kafka Website](https://kafka.apache.org/)
